@@ -1,0 +1,55 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>JsonNode</find>
+      <find>GOOGLE_OAUTH_COUNT</find>
+      <find>access_token</find>
+      <find>clientId</find>
+      <find>https://kdr-api-dot-hydrasearch-dev.appspot.com/internal_tools/oauth_token</find>
+      <find>Failed to get google OAuth due t</find>
+      <find>snap</find>
+      <find>snapchat_redirect_url</find>
+      <find>com.fasterxml.jackson.annotation</find>
+      <find>String</find>
+      <find>KvCoder</find>
+      <find>mediaId</find>
+      <find>datastoreAccessor</find>
+      <find>objectMapper</find>
+      <find>conv</find>
+      <find>metricsPubsub</find>
+      <find>analyzerApiMediatorFactory</find>
+      <find>appengine-api-1.0-sdk</find>
+      <find>persistent debugging image.</find>
+      <find>Param</find>
+      <find>authUtils</find>
+      <find>appengineUtils</find>
+      <find>length</find>
+      <find>files</find>
+      <find>img</find>
+      <find>buttonSubmit</find>
+      <find>drawAspect</find>
+      <find>drawImages</find>
+      <find>bind</find>
+      <find>responseOutput</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>token</replace>
+      <replace>money</replace>
+      <replace>Channel</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/snapchat/appengine/snapads/</dir>
+      <dir>$USER_HOME$/snapchat/appengine/snapads/snapads-monitor</dir>
+      <dir>$USER_HOME$/snapchat/libs/infrastructure-common</dir>
+      <dir>$USER_HOME$/snapchat/appengine/snapads/admanager-integtest</dir>
+      <dir>$USER_HOME$/snapchat/appengine/snapads</dir>
+      <dir>$USER_HOME$/snapchat/appengine/snapads/admanager-integtest/src/main/java/com/snapchat/admanager/integtest</dir>
+      <dir>$USER_HOME$/snapchat/libs/stats-client</dir>
+      <dir>$USER_HOME$/snapchat/libs/ad-attribution-common</dir>
+      <dir>$USER_HOME$/snapchat/applications/</dir>
+      <dir>$USER_HOME$/snapchat/libs/salesforce-api-client/src/main</dir>
+      <dir>$USER_HOME$/snapchat/appengine/snapads/admanager-api/src/main/java/com/snapchat/admanager/api/mediator</dir>
+      <dir>$USER_HOME$/Knowledge-Detection-Recognition-Pipeline/java/analyzer-service/src/main/java/com/snapchat/context/knowledge/kdr/api/internal_tool_servlets</dir>
+    </dirStrings>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="Vcs.Log.Big.Repositories">
+    <option name="REPOSITORIES">
+      <repository path="$USER_HOME$/appengine" />
+      <repository path="$USER_HOME$/snapchat" />
+    </option>
+  </component>
+</application>
