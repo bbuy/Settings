@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.25026014" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="INSPECTION_FILTER_HISTORY" value="final" />
+    <property name="JUnit.Splitter.Proportion" value="0.411252" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="find usage" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="Virtual&#10;your kit&#10;Debugger Memory&#10;JVM Debugger Memory View&#10;gradle dependencies formatter" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.26297334" />
+    <property name="SearchEveryWhereHistory" value="r&#10;auto-value&#10;logging" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.40485513" />
+    <property name="android-component-compatibility-check" value="1545266511409" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="91" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/test&#10;/Users/richardtian/snapchat/appengine/currency-exchange-rate-service/currency-exchange-rate-service.ipr&#10;/Users/richardtian/Knowledge-Detection-Recognition-Pipeline/java/build.gradle&#10;/Users/richardtian/Knowledge-Detection-Recognition-Pipeline/java/kdr.ipr&#10;/Users/richardtian/.gradle&#10;/Users/richardtian/gradle-3.2-snapshot-1&#10;/Users/richardtian/gradle-3.3&#10;/Users/richardtian/gradle-3.3/bin&#10;/Users/richardtian/Knowledge-Detection-Recognition-Pipeline/java/dataflow/build.gradle&#10;/Users/richardtian/tensorflowPlay/bin/python2.7&#10;/Users/richardtian/Knowledge-Detection-Recognition-Pipeline/java/analyzer-service/kdr-analyzer-service.ipr&#10;/Users/richardtian/snapchat/applications/adserver/adserver.ipr&#10;/Users/richardtian/snapchat/applications/ad-psyduck/src/main/java/snapchat/ads/pikachu/psyduck/server/Version.java&#10;/Users/richardtian/snapchat/applications/ad-stats-server/ad-stats-server.ipr&#10;/Users/richardtian/Knowledge-Detection-Recognition-Pipeline/java/analyzer-service/analyzer-service.ipr&#10;/Users/richardtian/Documents/intellij-java-google-style.xml&#10;/Users/richardtian/Knowledge-Detection-Recognition-Pipeline/java/kdr.iml&#10;/Users/richardtian/snapchat/libs/libs.ipr&#10;/Users/richardtian/snapchat/appengine/snapads/common-dependencies/common-dependencies.iml&#10;/Users/richardtian/snapchat/appengine/snapads/snapads-monitor/tools/monitorRemoteSettings/MonitorRemoteSettings.iml&#10;/Users/richardtian/snapchat/appengine/snapads/snapads-monitor/snapads-monitor.iml&#10;/Users/richardtian/snapchat/appengine/snapads/admanager-api/admanager-api.iml&#10;/Users/richardtian/snapchat/appengine/snapads/snapads.ipr&#10;/Users/richardtian/snapchat/appengine/snapads/snapads.iml&#10;/Users/richardtian/snapchat/libs/salesforce-api-client/salesforce-api-client.iml&#10;/Users/richardtian/snapchat/libs/salesforce-api-client/salesforce-api-client.ipr&#10;/Users/richardtian/snapchat/libs/ad-delivery-stats-client/build.gradle&#10;/Users/richardtian/snapchat/libs/ad-delivery-stats-client/ad-delivery-stats-client.iml&#10;/Users/richardtian/snapchat/applications/ad-delivery-stats/ad-delivery-stats-server.ipr&#10;/Users/richardtian/playground/grpc-java-gradle-hello-world/grpc-java-gradle-hello-world.ipr" />
+    <property name="file.gist.reindex.count" value="117890" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="find.popup.splitter" value="0.54028434" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7.13 virtualenv at ~/tensorflowPlay" />
+    <property name="last.imported.location" value="$USER_HOME$/Knowledge-Detection-Recognition-Pipeline/java/build.gradle" />
+    <property name="lastTip" value="7" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads/jvm-memory-view/lib" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+  </component>
+</application>

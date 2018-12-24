@@ -1,0 +1,304 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/playground" />
+        <option value="$USER_HOME$/test" />
+        <option value="$USER_HOME$/appengine/appengine.ipr" />
+        <option value="$USER_HOME$/snapchat/blizzard/schema/schema.ipr" />
+      </list>
+    </option>
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Knowledge-Detection-Recognition-Pipeline/java/analyzer-service/analyzer-service.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496454667828" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Knowledge-Detection-Recognition-Pipeline/java/analyzer-service/kdr-analyzer-service.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521489680768" />
+              <option name="buildTimestamp" value="1517267509881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Knowledge-Detection-Recognition-Pipeline/java/kdr.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521146869000" />
+              <option name="buildTimestamp" value="1517267493060" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/appengine/appengine.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-181.4445.78" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545244154320" />
+              <option name="buildTimestamp" value="1523306913379" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/automation-backend/automation-backend.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4694.70" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503900896561" />
+              <option name="buildTimestamp" value="1499155548906" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/testPlayGround">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1492489062427" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/java-docs-samples/compute/cmdline">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515014909671" />
+              <option name="buildTimestamp" value="1511791636015" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-181.4445.78" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545255420973" />
+              <option name="buildTimestamp" value="1523306913379" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/cralwer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4694.70" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500057414750" />
+              <option name="buildTimestamp" value="1499155529689" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/grpc-java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484190644191" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/grpc-java-gradle-hello-world/grpc-java-gradle-hello-world.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484203293616" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/grpc-java/examples/examples.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484190543054" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/knock">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4694.70" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501049345791" />
+              <option name="buildTimestamp" value="1499155509075" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/testPy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1497984769172" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/playground/testTensorFlow">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1498153967968" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483665978507" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/appengine/currency-exchange-rate-service/currency-exchange-rate-service.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4694.70" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500657872123" />
+              <option name="buildTimestamp" value="1499155539048" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/appengine/snapads/admanager-api-cron/tools/stressTestTool/stressTestTool.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481156671882" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/appengine/snapads/snapads.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4694.70" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506460774401" />
+              <option name="buildTimestamp" value="1499155515256" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/applications/ad-delivery-stats/ad-delivery-stats-server.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1494886155090" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/applications/ad-stats-server/ad-stats-server.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496468796403" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/applications/adserver/adserver.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496470365246" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/blizzard/schema/schema.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-181.4445.78" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543279330964" />
+              <option name="buildTimestamp" value="1523306905882" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/libs/libs.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1491441248380" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/snapchat/libs/salesforce-api-client/salesforce-api-client.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496354294236" />
+              <option name="buildTimestamp" value="1476428400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-181.4445.78" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545244209291" />
+              <option name="buildTimestamp" value="1523306913379" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

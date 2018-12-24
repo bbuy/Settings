@@ -1,0 +1,2 @@
+
+HashMap.class.getCanonicalName();
